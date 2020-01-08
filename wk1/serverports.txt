@@ -1,0 +1,22 @@
+1) What is the definition of server port?
+Answer: A communication endpoint that a server uses to make its services
+available to the internet using numbered ports (one for each service)
+
+2) What is server port range?
+Answer: 0 to 65535
+
+3) How many bits does number above represent?
+Answer: 16
+
+4) State 10 common server ports
+Answer:
+SMTP (30)
+HTTP (80)
+HTTPS (443)
+FTP (20/21)
+TELNET (23)
+IMAP (143)
+RDP (3389)
+SSH (22)
+DNS (53)
+DHCP (67/68)
