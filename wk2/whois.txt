@@ -1,0 +1,172 @@
+--1
+Domain Name: VIMM.NET
+Registry Domain ID: 6224358_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2019-05-04T17:55:30Z
+Creation Date: 1999-05-04T08:49:01Z
+Registry Expiry Date: 2020-05-04T08:47:22Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS69.DOMAINCONTROL.COM
+Name Server: NS70.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2019-05-23T18:35:55Z <<<
+
+--2
+Whois Record for SymbolAb.com
+How does this work?
+
+ Domain Profile
+Registrant Country	il
+Registrar	GoDaddy.com, LLC
+IANA ID: 146
+URL: http://www.godaddy.com
+Whois Server: whois.godaddy.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientRenewProhibited, clientTransferProhibited, clientUpdateProhibited
+Dates	2,750 days old
+Created on 2012-07-05
+Expires on 2020-07-05
+Updated on 2018-06-08	  
+Name Servers	AMY.NS.CLOUDFLARE.COM (has 21,988,469 domains)
+GABE.NS.CLOUDFLARE.COM (has 21,988,469 domains)
+  
+Tech Contact	—
+IP Address	104.24.11.100 - 3 other sites hosted on this server
+  
+IP Location	United States Of America - California - San Francisco - Cloudflare Inc.
+ASN	United States Of America AS13335 CLOUDFLARENET - Cloudflare, Inc., US (registered Jul 14, 2010)
+Domain Status	Registered And Active Website
+IP History	25 changes on 25 unique IP addresses over 13 years	  
+Registrar History	3 registrars with 3 drops	  
+Hosting History	14 changes on 8 unique name servers over 17 years	  
+ Website
+Website Title	  Symbolab Math Solver - Step by Step calculator	  
+Server Type	cloudflare
+Response Code	200
+Terms	711 (Unique: 319, Linked: 65)
+Images	27 (Alt tags missing: 27)
+Links	41   (Internal: 32, Outbound: 3)
+Whois Record ( last updated on 2020-01-15 )
+
+--3
+Whois Record for 4chan.org
+How does this work?
+
+ Domain Profile
+Registrant Org	4chan community support LLC
+Registrant Country	us
+Registrar	CloudFlare, Inc.
+IANA ID: 1910
+URL: http://www.cloudflare.com
+Whois Server: whois.cloudflare.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited
+Dates	5,814 days old
+Created on 2004-02-14
+Expires on 2023-02-14
+Updated on 2015-11-02	  
+Name Servers	RICK.NS.CLOUDFLARE.COM (has 21,988,469 domains)
+RITA.NS.CLOUDFLARE.COM (has 21,988,469 domains)
+  
+Tech Contact	—
+IP Address	104.16.168.99 - 2 other sites hosted on this server
+  
+IP Location	United States Of America - California - San Francisco - Cloudflare Inc.
+ASN	United States Of America AS13335 CLOUDFLARENET - Cloudflare, Inc., US (registered Jul 14, 2010)
+Domain Status	Registered And Active Website
+IP History	21 changes on 21 unique IP addresses over 16 years	  
+Hosting History	7 changes on 6 unique name servers over 16 years	  
+ Website
+Website Title	  4chan	  
+Server Type	cloudflare
+Response Code	200
+Terms	315 (Unique: 239, Linked: 125)
+Images	9 (Alt tags missing: 8)
+Links	93   (Internal: 37, Outbound: 55)
+
+--4
+Whois Record for Desmos.com
+How does this work?
+
+ Domain Profile
+Registrant	REDACTED FOR PRIVACY
+Registrant Org	REDACTED FOR PRIVACY
+Registrant Country	us
+Registrar	DREAMHOST DreamHost, LLC
+IANA ID: 431
+URL: WWW.DREAMHOST.COM,http://www.DreamHost.com
+Whois Server: WHOIS.DREAMHOST.COM
+
+(p)
+Registrar Status	ok
+Dates	5,573 days old
+Created on 2004-10-12
+Expires on 2020-10-12
+Updated on 2018-06-08	  
+Name Servers	NS-1095.AWSDNS-08.ORG (has 12,865 domains)
+NS-158.AWSDNS-19.COM (has 27,192 domains)
+NS-1998.AWSDNS-57.CO.UK (has 349 domains)
+NS-873.AWSDNS-45.NET (has 355 domains)
+  
+Tech Contact	REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY,
+REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY
+IP Address	13.224.2.24 - 2,139 other sites hosted on this server
+  
+IP Location	United States Of America - Washington - Seattle - Amazon Technologies Inc.
+ASN	United States Of America AS16509 AMAZON-02 - Amazon.com, Inc., US (registered May 04, 2000)
+Domain Status	Registered And Active Website
+IP History	118 changes on 118 unique IP addresses over 13 years	  
+Registrar History	4 registrars with 1 drop	  
+Hosting History	15 changes on 10 unique name servers over 18 years	  
+ Website
+Website Title	  500 SSL negotiation failed:	  
+Response Code	500
+
+--5
+Whois Record for EloquentJavascript.net
+How does this work?
+
+ Domain Profile
+Registrant	REDACTED FOR PRIVACY
+Registrant Org	REDACTED FOR PRIVACY
+Registrant Country	REDACTED FOR PRIVACY
+Registrar	Key-Systems GmbH
+IANA ID: 269
+URL: http://www.transip.eu,http://www.key-systems.net
+Whois Server: whois.rrpproxy.net
+
+(p)
+Registrar Status	clientTransferProhibited
+Dates	4,559 days old
+Created on 2007-07-23
+Expires on 2020-07-23
+Updated on 2019-07-22	  
+Name Servers	NS0.TRANSIP.NET (has 643,685 domains)
+NS1.TRANSIP.NL (has 145,936 domains)
+NS2.TRANSIP.EU (has 3,454 domains)
+  
+Tech Contact	REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY,
+REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY
+
+(p) (f)
+IP Address	149.210.142.219 - 5 other sites hosted on this server
+  
+IP Location	Netherlands - Noord-holland - Amsterdam - Transip B.v.
+ASN	Netherlands AS20857 TRANSIP-AS Amsterdam, the Netherlands, NL (registered Jun 20, 2001)
+Domain Status	Registered And Active Website
+IP History	14 changes on 14 unique IP addresses over 13 years	  
+Registrar History	3 registrars	  
+Hosting History	4 changes on 5 unique name servers over 13 years

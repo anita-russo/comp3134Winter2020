@@ -1,0 +1,140 @@
+--1
+Domain Name: georgebrown.ca
+
+Top Level Domain: CA (Canada)
+
+DNS Lookup
+
+IP Address: 198.96.86.202
+
+Geolocation: CA (Canada), ON, Ontario, M5T Toronto - Google Maps
+
+Reverse DNS: gbrownc.on.ca
+
+Domain Check
+
+Domain Name: georgebrown.ca
+
+Top Level Domain: CA (Canada)
+
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2019-10-26T15:06:13Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2020-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+
+--2
+Domain Name: marthastewart.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 34.199.91.5
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+Reverse DNS: ec2-34-199-91-5.compute-1.amazonaws.com
+
+Domain Check
+
+Domain Name: marthastewart.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: MARTHASTEWART.COM
+Registry Domain ID: 455825_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://www.cscglobal.com/global/web/csc/digital-brand-services.html
+Updated Date: 2019-08-30T05:30:05Z
+Creation Date: 1997-09-04T04:00:00Z
+Registry Expiry Date: 2020-09-03T04:00:00Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+
+--3
+Domain Name: amazon.ca
+
+Top Level Domain: CA (Canada)
+
+DNS Lookup
+
+IP Address: 54.239.18.172
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+Reverse DNS entry: not found
+
+Domain Check
+
+Domain Name: amazon.ca
+
+Top Level Domain: CA (Canada)
+
+Domain Name: amazon.ca
+Registry Domain ID: D237-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2019-07-16T04:02:32Z
+Creation Date: 2000-09-19T18:44:39Z
+Registry Expiry Date: 2024-07-16T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+
+--4
+Domain Name: automatetheboringstuff.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 208.113.217.212
+
+Geolocation: US (United States), CA, California, 92821 Brea - Google Maps
+
+Reverse DNS: automatetheboringstuff.com
+
+Domain Check
+
+Domain Name: automatetheboringstuff.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: AUTOMATETHEBORINGSTUFF.COM
+Registry Domain ID: 1862133043_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.dreamhost.com
+Registrar URL: http://www.DreamHost.com
+Updated Date: 2017-12-26T09:23:28Z
+Creation Date: 2014-06-09T16:18:31Z
+Registry Expiry Date: 2020-06-09T16:18:31Z
+Registrar: DreamHost, LLC
+
+--5
+Domain Name: github.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 140.82.113.4
+
+Geolocation: US (United States), MA, Massachusetts, 02110 Boston - Google Maps
+
+Reverse DNS: lb-140-82-113-4-iad.github.com
+
+Domain Check
+
+Domain Name: github.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: GITHUB.COM
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-05-13T13:58:34Z
+Creation Date: 2007-10-09T18:20:50Z
+Registry Expiry Date: 2020-10-09T18:20:50Z
+Registrar: MarkMonitor Inc.

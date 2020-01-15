@@ -1,0 +1,12 @@
+(base) MacBook-Pro:wk2 anita$ ping 138.197.156.39
+PING 138.197.156.39 (138.197.156.39): 56 data bytes
+64 bytes from 138.197.156.39: icmp_seq=0 ttl=58 time=6.108 ms
+64 bytes from 138.197.156.39: icmp_seq=1 ttl=58 time=4.042 ms
+64 bytes from 138.197.156.39: icmp_seq=2 ttl=58 time=2.892 ms
+64 bytes from 138.197.156.39: icmp_seq=3 ttl=58 time=5.419 ms
+64 bytes from 138.197.156.39: icmp_seq=4 ttl=58 time=2.839 ms
+64 bytes from 138.197.156.39: icmp_seq=5 ttl=58 time=5.817 ms
+64 bytes from 138.197.156.39: icmp_seq=6 ttl=58 time=3.959 ms
+64 bytes from 138.197.156.39: icmp_seq=7 ttl=58 time=5.454 ms
+64 bytes from 138.197.156.39: icmp_seq=8 ttl=58 time=5.641 ms
+64 bytes from 138.197.156.39: icmp_seq=9 ttl=58 time=5.592 ms
