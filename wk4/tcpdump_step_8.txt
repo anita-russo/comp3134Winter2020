@@ -1,0 +1,10 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -n -i eth0
+15:52:52.080576 IP 198.96.85.163.53430 > 138.197.156.39.22: Flags [.], ack 3084184, win 2034, options [nop,nop,TS val 1291721926 ecr 573548981], length 0
+15:52:52.080591 IP 198.96.85.163.53430 > 138.197.156.39.22: Flags [.], ack 3084396, win 2044, options [nop,nop,TS val 1291721927 ecr 573548981], length 0
+15:52:52.080598 IP 198.96.85.163.53430 > 138.197.156.39.22: Flags [.], ack 3084608, win 2044, options [nop,nop,TS val 1291721927 ecr 573548981], length 0
+15:52:52.080603 IP 198.96.85.163.53430 > 138.197.156.39.22: Flags [.], ack 3085748, win 2030, options [nop,nop,TS val 1291721927 ecr 573548982], length 0
+15:52:52.080608 IP 198.96.85.163.53430 > 138.197.156.39.22: Flags [.], ack 3085960, win 2044, options [nop,nop,TS val 1291721927 ecr 573548982], length 0
+^C
+16228 packets captured
+20687 packets received by filter
+4459 packets dropped by kernel

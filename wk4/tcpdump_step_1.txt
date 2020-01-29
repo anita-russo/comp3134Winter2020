@@ -1,0 +1,12 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0
+15:46:53.365511 IP 198.96.85.163.53430 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 274452, win 2033, options [nop,nop,TS val 1291365063 ecr 573190260], length 0
+15:46:53.365626 IP 198.96.85.163.53430 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 274672, win 2044, options [nop,nop,TS val 1291365064 ecr 573190261], length 0
+15:46:53.365668 IP 198.96.85.163.53430 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 274892, win 2041, options [nop,nop,TS val 1291365064 ecr 573190261], length 0
+15:46:53.365678 IP 198.96.85.163.53430 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 275112, win 2044, options [nop,nop,TS val 1291365064 ecr 573190261], length 0
+15:46:53.365686 IP 198.96.85.163.53430 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 275332, win 2041, options [nop,nop,TS val 1291365064 ecr 573190261], length 0
+^C
+1407 packets captured
+1992 packets received by filter
+578 packets dropped by kernel
+
+(edited for brevity)

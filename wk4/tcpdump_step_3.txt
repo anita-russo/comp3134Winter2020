@@ -1,0 +1,10 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -A -i eth0
+15:49:02.625307 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.53430: Flags [P.], seq 10841168:10841668, ack 7093, win 501, options [nop,nop,TS val 573319529 ecr 1291493334], length 500
+E..(.D@.@.X....'.`U......U\Q.5@P....E......
+^C",)iL...qq<|Ec.....N..FC..9.o|.?....X>(.</.w.Y..j...e.?...e..G.a.....x0.\.
+E..~....?....E..;...Ax.h.7.dl.A1|S....;.]{m.....zB.eQ-<..G.%.X...6.I.^....o_P.	G)F.6..t...~.e..J|	.+l..v.k.....{..r\.3.....N.i..k...o......./..8.a....@K.......<!.=..O....4.({.wJ..a..2..".7....Kr..A..k...n.W	...Iup. r..(_9@.h..%..%...H.....nS..\......3.b.q.../{.0.as.....i...9@...dM.. 8...QM.s..&FQ|?.*<....)...)b.. c.....V}.0..S..~.a.....Nnw.!..3.0l..8.naz...K.I2.j.~w.@+....#..+=...&..QD).../6.3.c.[.
+eH.)..S..4.+.OJ.J.d.j....u...`a
+
+14024 packets captured
+52053 packets received by filter
+38023 packets dropped by kernel
