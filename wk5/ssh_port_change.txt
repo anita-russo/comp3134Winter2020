@@ -1,0 +1,2 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# service sshd restart
+(base) MacBook-Pro:~ anita$ ssh root@138.197.156.39 -p 2222
