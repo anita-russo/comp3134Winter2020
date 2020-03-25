@@ -1,0 +1,8 @@
+To prevent user accessing files before html directory:
+use the basename() function to check if path is equal to the basename
+
+To prevent user from accessing files that don't exist:
+use the file_exists() function, passing $path as the parameter
+
+To check for a filename:
+use the strpos to search the $path string for a dot

@@ -1,0 +1,6 @@
+The browser displays all the files located in the ../../ directory, which is
+the var directory
+
+This displays important system files that the system writes data to. Accessing 
+these files could cause damage to the operating system.
+

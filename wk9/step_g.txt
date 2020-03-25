@@ -1,0 +1,2 @@
+To prevent comments from being seen in source code, you can use a php
+tag and php comments.

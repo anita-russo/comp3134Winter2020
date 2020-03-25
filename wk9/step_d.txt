@@ -1,0 +1,5 @@
+The browser displays a warning from the scandir function stating that it failed
+to open the specified directory
+
+This page gives sensitive information by displaying all the files and directories
+located in the var/www/http folder of the computer.
